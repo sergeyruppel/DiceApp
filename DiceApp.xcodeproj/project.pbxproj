@@ -49,6 +49,7 @@
 		3A6963AC2869D95300F818CD /* DiceAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DiceAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3A6963B02869D95300F818CD /* DiceAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DiceAppUITests.swift; sourceTree = "<group>"; };
 		3A6963B22869D95300F818CD /* DiceAppUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DiceAppUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		3AA3530C2877E4C100659383 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +80,7 @@
 		3A6963832869D95200F818CD = {
 			isa = PBXGroup;
 			children = (
+				3AA3530C2877E4C100659383 /* README.md */,
 				3A69638E2869D95200F818CD /* DiceApp */,
 				3A6963A52869D95300F818CD /* DiceAppTests */,
 				3A6963AF2869D95300F818CD /* DiceAppUITests */,
